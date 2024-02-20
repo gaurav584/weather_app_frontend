@@ -1,0 +1,9 @@
+.weather-Details{
+    margin-top: 200px;
+    height: 300px;
+    width: 250px;
+    margin-top: 50px 0px 0px 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

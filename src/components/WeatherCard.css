@@ -1,0 +1,23 @@
+/* .weather-card{
+  width: 200px;
+  border: 1px solid black;
+  margin-top: 250px;
+  margin-left: 220px;
+  background-color: aquamarine;
+  border-radius:25px;
+  text-align: center;
+  padding: 10px;
+} */
+
+/* WeatherCard.css */
+.weather-card {
+  width: 800px; /* Take up 100% width of the parent container */
+  height: 200px;
+  border: 1px solid black;
+  background-color: aquamarine;
+  border-radius: 25px;
+  text-align: center; /* Add margin between WeatherCard components */
+  padding: 10px;
+  margin-top: 80px;
+  margin-left: 200px;
+}
